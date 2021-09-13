@@ -24,6 +24,7 @@ The following conversions are classified as implicit conversions:
 *  Boxing conversions
 *  Implicit dynamic conversions
 *  Implicit constant expression conversions
+*  Implicit conversions involving type parameters
 *  User-defined implicit conversions
 *  Anonymous function conversions
 *  Method group conversions
