@@ -25,8 +25,7 @@ The following conversions are classified as implicit conversions:
 *  Implicit dynamic conversions
 *  Implicit constant expression conversions
 *  User-defined implicit conversions
-*  Anonymous function conversions
-*  Method group conversions
+*  Anonymous function conversions and method group conversions
 
 Implicit conversions can occur in a variety of situations, including function member invocations ([Compile-time checking of dynamic overload resolution](expressions.md#compile-time-checking-of-dynamic-overload-resolution)), cast expressions ([Cast expressions](expressions.md#cast-expressions)), and assignments ([Assignment operators](expressions.md#assignment-operators)).
 
